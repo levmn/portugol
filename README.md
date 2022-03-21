@@ -1,4 +1,4 @@
-<h2 align="center">💡 Portugol Studio (Bloco 1 - Generation Brasil)</h2>
+<h2 align="center">🚀 Portugol Studio (Bloco 1 - Generation Brasil)</h2>
 <p>Repositório referente ao primeiro bloco do bootcamp da <a href="https://brazil.generation.org">Generation Brasil</a>, com exercícios introdutórios a lógica da programação e criação de algoritmos por pseudocódigo no Portugol Studio.</p>
 <p>Clicando nas <b><i>Listas</i></b> você será redirecionade aos exercícios que foram propostos durante o bloco, e em <b><i>Resoluções</i></b> você será redirecionade para o repositório específico onde estão as resoluções feitas por mim.</p>
 
